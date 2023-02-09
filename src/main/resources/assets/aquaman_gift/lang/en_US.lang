@@ -1,0 +1,34 @@
+itemGroup.aquaman_gift=AquaMan's Gift
+
+tile.aquaman_block.name=AquaMan Block
+tile.aquaman_block_stair.name=AquaMan Stair
+tile.aquaman_block_slab.name=AquaMan Slab
+tile.aquaman_block_fence.name=AquaMan Fence
+tile.aquaman_block_fence_gate.name=AquaMan Fence Gate
+tile.aquaman_block_wall.name=AquaMan Wall
+
+tile.smooth_aquaman_block.name=Smooth AquaMan Block
+tile.smooth_aquaman_block_stair.name=Smooth AquaMan Stair
+tile.smooth_aquaman_block_slab.name=Smooth AquaMan Slab
+tile.smooth_aquaman_block_fence.name=Smooth AquaMan Fence
+tile.smooth_aquaman_block_fence_gate.name=Smooth AquaMan Fence Gate
+tile.smooth_aquaman_block_wall.name=Smooth AquaMan Wall
+
+tile.chiseled_aquaman_block.name=Chiseled AquaMan Block
+tile.chiseled_aquaman_block_stair.name=Chiseled AquaMan Stair
+tile.chiseled_aquaman_block_slab.name=Chiseled AquaMan Slab
+tile.chiseled_aquaman_block_fence.name=Chiseled AquaMan Fence
+tile.chiseled_aquaman_block_fence_gate.name=Chiseled AquaMan Fence Gate
+tile.chiseled_aquaman_block_wall.name=Chiseled AquaMan Wall
+
+tile.glazed_aquaman_block.name=Glazed AquaMan Block
+tile.glazed_aquaman_block_stair.name=Glazed AquaMan Stair
+tile.glazed_aquaman_block_slab.name=Glazed AquaMan Slab
+tile.glazed_aquaman_block_fence.name=Glazed AquaMan Fence
+tile.glazed_aquaman_block_fence_gate.name=Glazed AquaMan Fence Gate
+tile.glazed_aquaman_block_wall.name=Glazed AquaMan Wall
+
+tile.aquaman_block_pillar.name=AquaMan Pillar
+
+item.aquaman_bucket.name=AquaMan Bucket
+item.aquaman_bucket_full.name=AquaMan Essence

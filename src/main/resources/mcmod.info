@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aquaman_gift",
+  "name": "AquaMan's Gift",
+  "description": "AquaMan's Gift",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Someoneice"],
+  "credits": "Add the Aqua Block to ManaMetalMod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
